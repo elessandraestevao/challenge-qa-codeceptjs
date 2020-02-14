@@ -9,7 +9,7 @@ To run this application
   ```
 3. In the main project folder, run the tests
   ```sh
-  npx codeceptjs run --steps\n
+  npx codeceptjs run --steps
   ```
 
   For more information: https://codecept.io/quickstart/
